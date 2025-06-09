@@ -1,6 +1,6 @@
 # pnpm-warning
 
-Minimal reproduction of pnpm's
+Minimal reproduction where pnpm warns about `node_modules` being present when running `pnpm add --save-dev` in a workspace.
 
 ## To reproduce
 
