@@ -4,7 +4,7 @@ Minimal reproduction where pnpm warns about `node_modules` being present when ru
 
 ## To reproduce
 
-###
+### Setup
 ```shell
 corepack enable
 pnpm install
